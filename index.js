@@ -4,7 +4,8 @@ import add, {subtract, multiply} from "./src/function.js"
 import isPrime from "prime-number-check"
 import Car, {SportsCar} from "./src/Car.js"
 
-
+console.log("Welcome to my repo!")
+console.log("__________________________________________________________________________")
 let c = new Car("car1")
 console.log(c.name)
 
@@ -22,3 +23,4 @@ for(let i =0; i < 10; i++){
     array.push(generate())
 }
 console.log(array)
+
