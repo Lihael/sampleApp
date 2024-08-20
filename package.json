@@ -16,5 +16,9 @@
     "lodash": "^4.17.21",
     "prime-number-check": "^1.0.1",
     "random-words": "^2.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lihael/sampleApp"
   }
 }
